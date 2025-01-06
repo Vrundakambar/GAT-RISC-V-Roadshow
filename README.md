@@ -1,2 +1,3 @@
 # GAT-RISC-V-Roadshow
-![image](https://github.com/user-attachments/assets/7899a125-c43b-4a47-b759-e14abbd4a736)
+![image](https://github.com/user-attachments/assets/a9ccf923-f55f-404f-8235-1fe4f9ae1854)
+
